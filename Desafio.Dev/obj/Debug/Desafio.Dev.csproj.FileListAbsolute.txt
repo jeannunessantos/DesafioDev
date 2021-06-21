@@ -1,0 +1,10 @@
+C:\Users\jeann\source\repos\Desafio.Dev\Desafio.Dev\bin\Debug\Desafio.Dev.exe.config
+C:\Users\jeann\source\repos\Desafio.Dev\Desafio.Dev\bin\Debug\Desafio.Dev.exe
+C:\Users\jeann\source\repos\Desafio.Dev\Desafio.Dev\bin\Debug\Desafio.Dev.pdb
+C:\Users\jeann\source\repos\Desafio.Dev\Desafio.Dev\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jeann\source\repos\Desafio.Dev\Desafio.Dev\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jeann\source\repos\Desafio.Dev\Desafio.Dev\obj\Debug\Desafio.Dev.csproj.AssemblyReference.cache
+C:\Users\jeann\source\repos\Desafio.Dev\Desafio.Dev\obj\Debug\Desafio.Dev.csproj.CoreCompileInputs.cache
+C:\Users\jeann\source\repos\Desafio.Dev\Desafio.Dev\obj\Debug\Desafio.Dev.csproj.CopyComplete
+C:\Users\jeann\source\repos\Desafio.Dev\Desafio.Dev\obj\Debug\Desafio.Dev.exe
+C:\Users\jeann\source\repos\Desafio.Dev\Desafio.Dev\obj\Debug\Desafio.Dev.pdb
